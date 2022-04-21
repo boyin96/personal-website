@@ -74,4 +74,4 @@ Bo Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South Chi
 
 Bo Yin werd geboren in 1997. Hij behaalde de B.Eng. en M.Eng. graad aan de South China University of Technology, Guangzhou, China, respectievelijk in 2015 en 2022. Zijn onderzoeksinteresses omvatten draadloze communicatie, deep learning en convexe optimalisatie.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
