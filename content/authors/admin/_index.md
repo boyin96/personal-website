@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bo Yin was born in 1997. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2015 and 2022, respectively. His research interests include wireless communication, deep learning and convex optimization.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bo Yin werd geboren in 1997. Hij behaalde de B.Eng. en M.Eng. graad aan de South China University of Technology, Guangzhou, China, respectievelijk in 2015 en 2022. Zijn onderzoeksinteresses omvatten draadloze communicatie, deep learning en convexe optimalisatie.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
