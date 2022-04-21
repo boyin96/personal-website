@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Electronics and ICT Engineering
+  - course: Ph.D in Electronics and ICT Engineering
     institution: Ghent University
     year: now
-  - course: MEng in Information and Communication Engineering
+  - course: M.Eng. in Information and Communication Engineering
     institution: South China University of Technology
     year: 2022
-  - course: BEng in Information Engineering
+  - course: B.Eng. in Information Engineering
     institution: South China University of Technology
     year: 2019
 
