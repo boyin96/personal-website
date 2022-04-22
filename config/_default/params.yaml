@@ -39,7 +39,7 @@ header:
     show_search: true
     highlight_active_link: true
 
- footer:
+footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
