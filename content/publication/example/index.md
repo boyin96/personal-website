@@ -15,7 +15,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2022-02-02"
-doi: "10.1109/GLOBECOM46510.2021.9685411"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01"
