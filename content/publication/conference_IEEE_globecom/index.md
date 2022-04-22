@@ -45,9 +45,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf'
+url_pdf: Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf
 url_code: ''
-url_dataset: '#'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -75,13 +75,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
