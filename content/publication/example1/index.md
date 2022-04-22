@@ -1,11 +1,11 @@
 ---
-title: "An example conference paper"
+title: "Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Bo Yin
+- {{< hl >}}Bo Yin{{< /hl >}}.
 - Jianhua Tang
 - Miaowen Wen
 
