@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things'
+url_pdf: 'Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
