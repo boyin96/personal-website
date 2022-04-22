@@ -35,7 +35,7 @@ abstract: The emergence of 5G brings unprecedented possibilities for deploying t
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: Source Themes
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf
+url_pdf: ./Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
