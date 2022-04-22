@@ -35,7 +35,7 @@ abstract: The emergence of 5G brings unprecedented possibilities for deploying t
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: Source Themes
 
 # Display this page in the Featured widget?
 featured: false
@@ -45,9 +45,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf'
+url_pdf: './Maximizing_the_Connectivity_of_Wireless_Network_Slicing_Enabled_Industrial_Internet-of-Things.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: '#'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -66,15 +66,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
@@ -85,4 +84,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
