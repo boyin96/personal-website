@@ -33,7 +33,7 @@ publication_short: In *2021 GLOBECOM*
 abstract: The emergence of 5G brings unprecedented possibilities for deploying the anticipated Industrial Internet of Things (IIoT). To achieve high density connectivity with multiple services in 5G empowered IIoT, we consider the non-orthogonal network slicing in this work. In particular, we jointly utilize network slicing to incorporate two different types of services and exploit non-orthogonal multiple access (NOMA) to maximize the number of total devices that can be accessed to the system. We formulate the connectivity maximization problem as a mixed-integer nonlinear programming (MINLP) by jointly optimizing the transmit power and device-subcarrier association. To tackle the intractable MINLP, we first transform it into a mixed-integer linear programming (MILP) and then reduce the MILP by devising a simple but effective transmit power allocation scheme. Thereafter, we propose a low-complexity best-effort pairing (BEP) algorithm to solve the reduced MILP. By comprehensive simulations, we find that our proposed BEP significantly outperforms the benchmark schemes.
 
 # Summary. An optional shortened abstract.
- summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
