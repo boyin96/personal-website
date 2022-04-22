@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: earth
+  theme_day: forest
 #  theme_night: 1950s
-  font: classic
+  font: native
   font_size: l
 
 # SEO
