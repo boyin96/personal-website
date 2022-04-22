@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Borg Yin (印博)
+title: Bo (Borg) Yin (印博)
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Bo Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. His research interests include wireless communication, deep learning and convex optimization.
+Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. His research interests include wireless communication, deep learning and convex optimization.
 
-Bo Yin werd geboren in 1996. Hij behaalde de B.Eng. en M.Eng. graad aan de South China University of Technology, Guangzhou, China, respectievelijk in 2019 en 2022. Zijn onderzoeksinteresses omvatten draadloze communicatie, deep learning en convexe optimalisatie.
+Mr. Yin werd geboren in 1996. Hij behaalde de B.Eng. en M.Eng. graad aan de South China University of Technology, Guangzhou, China, respectievelijk in 2019 en 2022. Zijn onderzoeksinteresses omvatten draadloze communicatie, deep learning en convexe optimalisatie.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yin.pdf" "newtab" >}}resumé{{< /staticref >}}.
