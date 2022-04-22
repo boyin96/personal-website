@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: earth
 #  theme_night: 1950s
   font: classic
   font_size: l
@@ -34,7 +34,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: true
+    show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
