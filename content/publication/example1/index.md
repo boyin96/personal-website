@@ -5,19 +5,20 @@ title: "An example conference paper"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- *Bo Yin*
-- Robert Ford
+-  **Bo Yin**
+- Jianhua Tang
+- Miaowen Wen
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding Author"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2022-02-02"
+doi: "10.1109/GLOBECOM46510.2021.9685411"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,18 +27,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2021 IEEE Global Communications Conference (GLOBECOM)*
+publication_short: In *2021 GLOBECOM*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The emergence of 5G brings unprecedented possibilities for deploying the anticipated Industrial Internet of Things (IIoT). To achieve high density connectivity with multiple services in 5G empowered IIoT, we consider the non-orthogonal network slicing in this work. In particular, we jointly utilize network slicing to incorporate two different types of services and exploit non-orthogonal multiple access (NOMA) to maximize the number of total devices that can be accessed to the system. We formulate the connectivity maximization problem as a mixed-integer nonlinear programming (MINLP) by jointly optimizing the transmit power and device-subcarrier association. To tackle the intractable MINLP, we first transform it into a mixed-integer linear programming (MILP) and then reduce the MILP by devising a simple but effective transmit power allocation scheme. Thereafter, we propose a low-complexity best-effort pairing (BEP) algorithm to solve the reduced MILP. By comprehensive simulations, we find that our proposed BEP significantly outperforms the benchmark schemes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
