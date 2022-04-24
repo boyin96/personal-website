@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2019-01-01"
   description: ""
-  organization: edX
+  organization: Consortium for Mathematics and Its Applications
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Mathematical Contest In Modeling
   url: ""
