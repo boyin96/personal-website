@@ -29,7 +29,7 @@ experience:
     location: Guangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-6-1'
-    description: Taught *introduction to computer & programming*.
+    description: Taught introduction to computer & programming.
 
 design:
   columns: '2'
