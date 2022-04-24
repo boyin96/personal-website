@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bo (Borg) Yin (印博)
+title: Bo Yin
 
 # Is this the primary user of the site?
 superuser: true
