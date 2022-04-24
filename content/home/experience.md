@@ -27,7 +27,7 @@ experience:
   - title: Teaching Assistant
     company: Shien-Ming Wu School, South China University of Technology (SCUT)
     company_url: 'http://www2.scut.edu.cn/wusie/main.htm'
-    company_logo: org-x
+    company_logo: org-scut
     location: Guangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-09-01'
