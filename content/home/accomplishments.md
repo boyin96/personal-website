@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2019"
+  date_start: "2019-01-01"
   description: ""
   organization: edX
   organization_url: https://www.comap.com/undergraduate/contests/
