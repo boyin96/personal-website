@@ -31,7 +31,7 @@ item:
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Mathematical Contest In Modeling (MCM)
   url: ""
-- certificate_url: home/2016CUMCM.pdf
+- certificate_url: home/2016CUMCM.jpg
   date_end: ""
   date_start: "2016-09-09"
   description: "First Prize (Guangdong Competition)"
