@@ -31,14 +31,14 @@ item:
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Mathematical Contest In Modeling (MCM)
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: home/2016CUMCM.pdf
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2016-09-09"
+  description: "First Prize (Guangdong Competition)"
+  organization: China Society for Industrial and Applied Mathematics (SCIAM)
+  organization_url: https://www.csiam.org.cn/
+  title: Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
