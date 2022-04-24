@@ -26,7 +26,7 @@ experience:
     company: Shien-Ming Wu School, South China University of Technology (SCUT)
     company_url: ''
     company_logo: org-x
-    location: Guangzhou, China
+    location: Guangzhou
     date_start: '2019-09-01'
     date_end: '2020-6-1'
     description: Taught introduction to computer programming.
