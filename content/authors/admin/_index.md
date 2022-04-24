@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: Ph.D in Electronics and ICT Engineering
-    institution: Ghent University
+    institution: Ghent University (UGent)
     year: now
   - course: M.Eng. in Information and Communication Engineering
-    institution: South China University of Technology
+    institution: South China University of Technology (SCUT)
     year: 2022
   - course: B.Eng. in Information Engineering
-    institution: South China University of Technology
+    institution: South China University of Technology (SCUT)
     year: 2019
 
 # Social/Academic Networking
