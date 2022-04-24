@@ -36,15 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Assistant
+    company: Shien-Ming Wu School, South China University of Technology (SCUT)
     company_url: ''
     company_logo: org-x
     location: Guangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-09-01'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: Taught *Introduction to Computer & Programming*.
 design:
   columns: '2'
 ---
