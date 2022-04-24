@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 author_notes:
 - ""
-- "Corresponding Author"
+- "Corresponding author"
 
 date: "2022-02-02"
 doi: "10.1109/GLOBECOM46510.2021.9685411"
