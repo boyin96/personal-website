@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ./2019MCM.pdf
+- certificate_url: home/2019MCM.pdf
   date_end: ""
   date_start: "2019-01-24"
   description: "Honorable Mention"
