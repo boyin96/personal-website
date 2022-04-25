@@ -6,7 +6,7 @@ title: Bo Yin
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Electronics and ICT Engineering 
+role: Ph.D Candidate of Electronics and ICT Engineering 
 
 # Organizations/Affiliations to show in About widget
 organizations:
