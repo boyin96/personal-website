@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Electronics and ICT Engineering
+  - course: Ph.D. in Electronics and ICT Engineering
     institution: Ghent University (UGent)
     year: now
   - course: M.Eng. in Information and Communication Engineering
