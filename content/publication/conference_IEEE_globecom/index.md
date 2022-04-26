@@ -38,7 +38,7 @@ abstract: The emergence of 5G brings unprecedented possibilities for deploying t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
