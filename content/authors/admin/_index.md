@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: Ph.D. in Electronics and ICT Engineering
-    institution: Ghent University (UGent)
+    institution: Ghent University
     year: now
   - course: M.Eng. in Information and Communication Engineering
-    institution: South China University of Technology (SCUT)
+    institution: South China University of Technology
     year: 2022
   - course: B.Eng. in Information Engineering
-    institution: South China University of Technology (SCUT)
+    institution: South China University of Technology
     year: 2019
 
 # Social/Academic Networking
@@ -71,7 +71,5 @@ highlight_name: true
 ---
 
 Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. His research interests include wireless communication, deep learning and convex optimization.
-
-Mr. Yin werd geboren in 1996. Hij behaalde de B.Eng. en M.Eng. graad aan de South China University of Technology, Guangzhou, China, respectievelijk in 2019 en 2022. Zijn onderzoeksinteresses omvatten draadloze communicatie, deep learning en convexe optimalisatie.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yin.pdf" "newtab" >}}resumé{{< /staticref >}}.
