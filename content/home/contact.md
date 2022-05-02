@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: eeboy@mail.scut.edu.cn
+  email: bborg.yin@gmail.com
   phone: (+86)155 211 56640
   address:
     street: 381 Wushan
