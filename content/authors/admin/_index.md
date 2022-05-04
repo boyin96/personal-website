@@ -6,7 +6,7 @@ title: Bo Yin
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate of Electronics and ICT Engineering 
+role: Ph.D. Candidate of Electronics and ICT Engineering 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. His research interests include wireless communication, deep learning and convex optimization.
+Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. Now, he is pursuing the Ph.D. degree in the Waves group at the Department of Information Technology, Ghent University, Belgium. His research interests include wireless communications, graph neural networks and convex optimization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yin.pdf" "newtab" >}}resumé{{< /staticref >}}.
