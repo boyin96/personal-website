@@ -18,9 +18,9 @@ bio: My research interests include wireless communication, deep learning and con
 
 # Interests to show in About widget
 interests:
-- Wireless Communication
-- Deep Learning
-- B5G/6G
+- Wireless Communications
+- Graph Neural Networks
+- Convex Optimization
 
 # Education to show in About widget
 education:
