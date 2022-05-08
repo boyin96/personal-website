@@ -58,19 +58,20 @@ projects: []
 ```
 // 外置PDF阅读器
 "latex-workshop.view.pdf.viewer": "external",
-"latex-workshop.view.pdf.external.viewer.command": "*D:/SumatraPDF*/SumatraPDF.exe",
+"latex-workshop.view.pdf.external.viewer.command": "D:/SumatraPDF/SumatraPDF.exe", // 注意修改自己电脑中PDF的路径
 "latex-workshop.view.pdf.external.viewer.args": [
         "%PDF%"
     ],
  
 // 设置正向和反向搜索
-"latex-workshop.view.pdf.external.synctex.command": "D:/SumatraPDF/SumatraPDF.exe",
+"latex-workshop.view.pdf.external.synctex.command": "D:/SumatraPDF/SumatraPDF.exe", // 注意修改自己电脑中PDF的路径
 "latex-workshop.view.pdf.external.synctex.args": [
         "-forward-search",
         "%TEX%",
         "%LINE%",
         "-reuse-instance",
         "-inverse-search",
+        // 注意修改自己电脑中VScode以及PDF的路径
         "\"D:\\VScode\\Microsoft VS Code\\Code.exe\" \"D:\\VScode\\Microsoft VS Code\\resources\\app\\out\\cli.js\" --ms-enable-electron-run-as-node -r -g \"%f:%l\"",
         "%PDF%"
     ],
