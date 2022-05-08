@@ -32,10 +32,14 @@ projects: []
 ## **为什么选择VScode**
 流行的文本编辑器很多，例如Sublime Text、Atom以及Notepad++等，关于LaTeX不同编辑器的比较在维基百科上进行了相关比较：
 
-{{< hl >}}> [http://en.wikipedia.org/wiki/Comparison_of_TeX_editor](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors){{< /hl >}}
+> [http://en.wikipedia.org/wiki/Comparison_of_TeX_editor](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
 
-{{hl}}选择VScode有以下三点主要原因：
-* 
-*
-*
+选择VScode有以下三点主要原因：
+
+* 轻量级且速度快，并且VScode可以提供只有IDE才能有的例如终端等功能。
+* 免费且开源，这两点应该是非常具有吸引力的，况且VScode的背后可是“宇宙无敌”的微软。
+* 高扩展性，插件几乎可以无所不能，高移植性，可在各大平台运行，以及完善的文档和社区，帮助你随时学习。
+
+总结即是：VScode is all you need！
+
 ---
