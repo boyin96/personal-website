@@ -32,7 +32,7 @@ projects: []
 ## **为什么选择VScode**
 流行的文本编辑器很多，例如Sublime Text、Atom以及Notepad++等，关于LaTeX不同编辑器的比较在维基百科上进行了相关比较：
 
-> [http://en.wikipedia.org/wiki/Comparison_of_TeX_editor](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
+> http://en.wikipedia.org/wiki/Comparison_of_TeX_editors
 
 选择VScode有以下三点主要原因：
 
