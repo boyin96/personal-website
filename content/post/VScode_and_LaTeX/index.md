@@ -48,7 +48,7 @@ projects: []
 
 关于VScode配置LaTeX的相关文档可以参考VScode插件LaTeX Workshop:
 
-> {{< hl >}}https://github.com/James-Yu/LaTeX-Workshop/wiki{{< /hl >}}
+> {{< hl >}}[https://github.com/James-Yu/LaTeX-Workshop/wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki){{< /hl >}}
 
 本文将主要配置步骤总结如下：
 
