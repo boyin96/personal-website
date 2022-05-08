@@ -58,7 +58,7 @@ projects: []
 ```
 // 外置PDF阅读器
 "latex-workshop.view.pdf.viewer": "external",
-"latex-workshop.view.pdf.external.viewer.command": "D:/SumatraPDF/SumatraPDF.exe",
+"latex-workshop.view.pdf.external.viewer.command": "*D:/SumatraPDF*/SumatraPDF.exe",
 "latex-workshop.view.pdf.external.viewer.args": [
         "%PDF%"
     ],
