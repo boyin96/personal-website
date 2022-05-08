@@ -11,7 +11,7 @@ authors:
   - admin
 lastmod: 2022-4-25T00:00:00Z
 tags:
-  - $\LaTeX$
+  - LaTeX
   - VScode
 categories:
   - 软件学习
