@@ -3,7 +3,7 @@ title: 使用VS code来编写的Latex的简单介绍
 subtitle: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
-date: 2022-4-25T00:00:00Z
+date: 2022-05-08T06:35:37.001Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
