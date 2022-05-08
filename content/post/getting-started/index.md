@@ -123,6 +123,6 @@ EnableTeXEnhancements = true
 
 2. VScode的主题我个人比较喜欢Github Theme、Eva Theme、One Dark Pro以及Atom One Light/Dark Theme。
 
-3. 
+3. LaTeX在线公式编辑推荐[LaTeX公式编辑器](https://www.latexlive.com/home)，在线表格编辑推荐[Tables Generator](https://www.tablesgenerator.com/latex_tables)。
 
 - - -
