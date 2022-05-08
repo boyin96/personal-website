@@ -90,11 +90,28 @@ projects: []
 "latex-workshop.intellisense.package.enabled": true,
 ```
 
-与此同时，在Sumatra PDF的高级设置中，修改其txt文件，在其最后增加：
+与此同时，在Sumatra PDF的高级选项中，修改其txt文件，在其最后增加：
+
 ```
 // 注意修改自己电脑中VScode的路径
 InverseSearchCmdLine = "D:\VScode\Microsoft VS Code\Code.exe" "D:\VScode\Microsoft VS Code\resources\app\out\cli.js" --ms-enable-electron-run-as-node -r -g "%f:%l"
 EnableTeXEnhancements = true
+```
+
+至此，有关VScode配置LaTeX的主要步骤结束。为了有更好地体验，通常会增加以下配置：
+
+```
+// 根据个人习惯将列数控制在90以内
+"editor.rulers": [
+        90
+    ],
+"editor.wordWrap": "wordWrapColumn",
+"editor.wordWrapColumn": 90,
+
+// 右键现在Format Document或者Shift+Alt+F可以自动调整tex文件格式
+"[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+    },
 ```
 
 - - -
