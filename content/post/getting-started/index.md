@@ -19,16 +19,18 @@ projects: []
 ---
 ## **前言**
 
-* TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。
+* TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。  
+
+
 * 大多数时候，为了简单我们编写 $\LaTeX$ 是利用其专门的编辑器，例如TeXworks、WinEdt以及TexStudio等，往往这一类的编辑器功能齐全，集编辑和预览于一身，但同时也存在
+
+
 * 本文基于TexLive，本文只关注编辑器，关于编辑器的
 
-\---
-
-
+<hr>
 
 ## **为什么选择VS code**
 
 > [http://en.wikipedia.org/wiki/Comparison_of_TeX_editor](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
 
-\---
+\*\**
