@@ -108,7 +108,7 @@ EnableTeXEnhancements = true
 "editor.wordWrap": "wordWrapColumn",
 "editor.wordWrapColumn": 90,
 
-// 右键现在Format Document或者Shift+Alt+F可以自动调整tex文件格式
+// 右键选择Format Document或者Shift+Alt+F可以自动调整tex文件格式
 "[latex]": {
     "editor.defaultFormatter": "James-Yu.latex-workshop"
     },
