@@ -17,7 +17,7 @@ categories:
   - 软件学习
 projects: []
 ---
-{{< *toc* >}}
+{{< toc >}}
 
 ## **前言**
 
