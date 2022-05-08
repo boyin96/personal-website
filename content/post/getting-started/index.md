@@ -50,5 +50,13 @@ projects: []
 ---
 
 ## VScode配置LaTeX
+关于VScode配置LaTeX的相关文档可以参考VScode插件LaTeX Workshop:
+> https://github.com/James-Yu/LaTeX-Workshop/wiki
+
+
+
+---
+
+## Tips
 
 ---
