@@ -1,12 +1,9 @@
 ---
-title: 使用VS code来编写的Latex的简单介绍
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
-date: 2022-05-08T06:35:37.001Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+title: 如何优雅地使用Visual Studio Code（VS code）编写LaTeX
+subtitle: 作为世界上最强大的排版系统，LaTex的使用是每一名科研工作者必备的技能之一，尤其对于理工科而言，其重要性不言而喻。Latex并非所见即所得“（What
+  You See Is What You Get），选择舒适的编辑器能让你的写作更好
+date: 2022-05-08T06:47:21.860Z
+summary: ""
 draft: false
 featured: false
 authors:
