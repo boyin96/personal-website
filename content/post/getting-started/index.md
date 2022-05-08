@@ -22,7 +22,7 @@ projects: []
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。  
 
 
-* 大多数时候，为了简单我们编写LaTeX是利用其专门的编辑器，例如TeXworks、WinEdt以及TexStudio等，往往这一类的编辑器功能齐全，集编辑和预览于一身。但同时这类编辑器往往界面效果不佳，作为一个颜值党，这是我不能接受的。
+* 大多数时候，编写LaTeX是利用其专门的编辑器，例如TeXworks、WinEdt以及TexStudio等，这一类的编辑器功能齐全，集编辑和预览于一身。但这类编辑器的界面往往效果不佳，这是我不能接受的。
 
 
 * 本文只关注编辑器，关于TeX的环境或发行版一般可以选择Texlive或者MikTex，Texlive相对较大，功能比较齐全，如果空间允许建议安装。此外CTex是专门面向中文的发行版，已经许久没有维护了，体验不佳，建议非必要不要安装。
@@ -42,8 +42,8 @@ projects: []
 
 * 高扩展性，插件几乎可以无所不能，高移植性，可在各大平台运行，甚至可以在网页运行你的[VScode](https://github.com/coder/code-server)，以及完善的文档和社区，帮助你随时学习。
 
-总结即是：VScode is all you need！
-{style="color: red"}
+**总结即是：VScode is all you need！**
+{style="color: green"}
 
 
 ---
