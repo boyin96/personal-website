@@ -33,7 +33,7 @@ projects: []
 
 > {{< hl >}}http://en.wikipedia.org/wiki/Comparison_of_TeX_editors{{< /hl >}}
 
-选择VScode有以下三点主要原因：
+选择VScode有以下三点原因：
 
 * 轻量级且速度快，并且VScode可以提供只有IDE才能有的例如终端等功能。
 * 免费且开源，这两点应该是非常具有吸引力的，况且VScode的背后可是“宇宙无敌”的微软。
