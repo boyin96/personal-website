@@ -16,6 +16,6 @@ projects: []
 ---
 ## 前言
 
-大多数我们在$\LaTex$ $\alpha$
+大多数我们在$\LaTeX$
 
 <hr>
