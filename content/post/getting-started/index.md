@@ -52,22 +52,20 @@ projects: []
 本文将主要配置步骤总结如下：
 
 1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex文件，点击VScode左侧TEX里面的Bulid LaTeX project便可以进行编译查看。 
-
 2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
-
 3. **VScode设置**：进入VScode按Ctrl+Shift+P搜索settings，打开Open Settings （JSON）即settings.json文件，将其修改如下：
 
 ```
 // 外置PDF阅读器
 "latex-workshop.view.pdf.viewer": "external",
-"latex-workshop.view.pdf.external.viewer.command":"D:/SumatraPDF/SumatraPDF.exe",
-  "latex-workshop.view.pdf.external.viewer.args": [
+"latex-workshop.view.pdf.external.viewer.command": "D:/SumatraPDF/SumatraPDF.exe",
+"latex-workshop.view.pdf.external.viewer.args": [
         "%PDF%"
     ],
+ 
 // 设置正向和反向搜索
-
 "latex-workshop.view.pdf.external.synctex.command": "D:/SumatraPDF/SumatraPDF.exe",
-  "latex-workshop.view.pdf.external.synctex.args": [
+"latex-workshop.view.pdf.external.synctex.args": [
         "-forward-search",
         "%TEX%",
         "%LINE%",
@@ -76,21 +74,20 @@ projects: []
         "\"D:\\VScode\\Microsoft VS Code\\Code.exe\" \"D:\\VScode\\Microsoft VS Code\\resources\\app\\out\\cli.js\" --ms-enable-electron-run-as-node -r -g \"%f:%l\"",
         "%PDF%"
     ],
+  
 // 防止保存即自动编译
-
 "latex-workshop.latex.autoBuild.run": "never",
-// 鼠标右键tex文件可显示特有的功能
 
+// 鼠标右键tex文件可显示特有的功能
 "latex-workshop.showContextMenu": true,
+
 // 去掉错误和警告信息提醒，这些可以在VScode终端获取
 "latex-workshop.message.error.show"  : false,
 "latex-workshop.message.warning.show": false,
+
 // 能够获取宏包中命令，从而开启自动补全功能
-
 "latex-workshop.intellisense.package.enabled": true,
-
 ```
-
 
 - - -
 
