@@ -17,8 +17,6 @@ categories:
   - 软件学习
 projects: []
 ---
-{{< toc >}}
-
 ## **前言**
 
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。  
