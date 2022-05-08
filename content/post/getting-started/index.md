@@ -49,6 +49,6 @@ projects: []
 
 ---
 
-的
+## VScode配置LaTeX
 
 ---
