@@ -54,7 +54,7 @@ projects: []
 
 1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex文件，点击VScode左侧TEX里面的Bulid LaTeX project便可以进行编译查看。 
 2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
-3. **VScode设置**：进入VScode按Ctrl+Shift+P搜索settings，打开Open Settings （JSON）即settings.json文件，将其修改如下：
+3. **VScode设置**：进入VScode按{{< hl >}}Ctrl+Shift+P{{< /hl >}}搜索settings，打开Open Settings （JSON）即settings.json文件，将其修改如下：
 
 ```
 // 外置PDF阅读器
@@ -91,7 +91,7 @@ projects: []
 "latex-workshop.intellisense.package.enabled": true,
 ```
 
-与此同时，在Sumatra PDF的高级选项中，修改其txt文件，在其最后增加：
+与此同时，在Sumatra PDF的高级选项中，修改其txt文件，在最后增加：
 
 ```
 // 注意修改自己电脑中VScode的路径
@@ -121,7 +121,7 @@ EnableTeXEnhancements = true
 
 1. 在VScode的tex源文件中输入@会有意想不到的效果，更多特性可参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
-2. VScode的主题我个人比较喜欢[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)以及[Atom One Light/Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)，这些都可以直接在VScode插件中搜索。
+2. VScode的主题我个人比较喜欢[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)以及[Atom One Light/Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)。
 
 3. LaTeX在线公式编辑推荐[LaTeX公式编辑器](https://www.latexlive.com/home)，在线表格编辑推荐[Tables Generator](https://www.tablesgenerator.com/latex_tables)。
 
