@@ -90,6 +90,13 @@ projects: []
 "latex-workshop.intellisense.package.enabled": true,
 ```
 
+与此同时，在Sumatra PDF的高级设置中，修改其txt文件，在其最后增加：
+```
+// 注意修改自己电脑中VScode的路径
+InverseSearchCmdLine = "D:\VScode\Microsoft VS Code\Code.exe" "D:\VScode\Microsoft VS Code\resources\app\out\cli.js" --ms-enable-electron-run-as-node -r -g "%f:%l"
+EnableTeXEnhancements = true
+```
+
 - - -
 
 ## Tips
