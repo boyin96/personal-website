@@ -31,7 +31,7 @@ projects: []
 
 当前流行的文本编辑器很多，例如Sublime Text、Atom以及Notepad++等，关于LaTeX不同编辑器的比较在维基百科上有详细的说明：
 
-> {{< hl >}}http://en.wikipedia.org/wiki/Comparison_of_TeX_editors{{< /hl >}}
+> {{< hl >}}[http://en.wikipedia.org/wiki/Comparison_of_TeX_editors](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors){{< /hl >}}
 
 选择VScode有以下三点原因：
 
