@@ -17,6 +17,8 @@ categories:
   - 软件学习
 projects: []
 ---
+@[TOC](目录)
+
 ## **前言**
 
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。  
@@ -27,10 +29,10 @@ projects: []
 
 * 本文基于TexLive，本文只关注编辑器，关于编辑器的
 
-<hr>
+---
 
 ## **为什么选择VS code**
 
 > [http://en.wikipedia.org/wiki/Comparison_of_TeX_editor](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
 
-\*\**
+---
