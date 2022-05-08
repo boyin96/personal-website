@@ -43,5 +43,7 @@ projects: []
 * 高扩展性，插件几乎可以无所不能，高移植性，可在各大平台运行，甚至可以在网页运行你的[VScode](https://github.com/coder/code-server)，以及完善的文档和社区，帮助你随时学习。
 
 总结即是：VScode is all you need！
+{style="color: red"}
+
 
 ---
