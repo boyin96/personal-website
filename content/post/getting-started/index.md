@@ -19,10 +19,10 @@ projects: []
 ---
 ## **前言**
 
-* TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。LaTeX是以TeX为基础的格式，是建立在TeX上的一套宏集。
-* 大多数时候，编写LaTeX是利用其专门的编辑器，例如TeXworks、WinEdt以及TexStudio等，这一类的编辑器功能齐全，集编辑和预览于一身。但这类编辑器的界面往往效果不佳，这是我不能接受的。
-* 本文只关注编辑器，关于TeX的环境或发行版一般可以选择TexLive（通用）、MikTeX（Windows）以及MacTeX（MacOS）等，TexLive相对较大，功能比较齐全，如果空间允许建议安装。此外CTex是专门面向中文的发行版，已经许久没有维护了，体验不佳，建议非必要不要安装。
-* 本文只关注本地编辑器，当然这里也有许多非常优秀且好用的线上LaTeX编辑器，例如[OverLeaf](https://www.overleaf.com/)、[Slager](https://www.slager.cn/#/home)以及[JaxEdit](http://jaxedit.com/note/)等。
+* TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。LaTeX是建立在TeX上的一套宏集。
+* 大多数时候，我们利用LaTeX专门的编辑器编写LaTeX，例如TeXworks、WinEdt以及TexStudio等，这类编辑器功能齐全，通常集编辑和预览于一身。然而，这类编辑器的界面往往显示效果不佳，这也是该文的写作缘由。
+* 本文只关注编辑器，关于TeX的发行版一般可以选择TexLive（通用）、MikTeX（Windows）以及MacTeX（MacOS）等，TexLive功能比较齐全，如果空间允许建议安装。此外CTex是专门面向中文的发行版，已经许久没有维护了，体验不佳，建议非必要不要安装。
+* 本文只关注本地编辑器，这里有许多非常优秀且好用的线上LaTeX编辑器，例如[OverLeaf](https://www.overleaf.com/)、[Slager](https://www.slager.cn/#/home)以及[JaxEdit](http://jaxedit.com/note/)等。
 * 关于[TexLive](https://www.latex-project.org/)以及[VScode](https://code.visualstudio.com/)的安装，本文在此不再赘述。
 
 - - -
