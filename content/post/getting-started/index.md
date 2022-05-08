@@ -54,8 +54,9 @@ projects: []
 > https://github.com/James-Yu/LaTeX-Workshop/wiki
 
 本文将主要配置步骤总结如下：
-1. 在VScode中安装插件LaTeX Workshop。
-2. 
+1. **在VScode中安装插件LaTeX Workshop。** 如果一切顺利，打开tex文件，点击VScode左侧TEX里面的Bulid LaTeX project便可以进行编译查看。 
+
+2. **配置额外的PDF阅读器。** 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为额外的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
 
 ---
 
