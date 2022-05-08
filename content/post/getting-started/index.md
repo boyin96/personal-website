@@ -1,6 +1,6 @@
 ---
 title: 如何优雅地使用Visual Studio Code（VS code）编写LaTeX
-subtitle: sdfs 作为世界上最强大的排版系统，LaTex的使用是每一名科研工作者必备的技能之一，尤其对于理工科而言，其重要性不言而喻
+subtitle: "nihda khaeu da ej "
 date: 2022-05-08T07:01:51.966Z
 summary: dasa
 draft: false
