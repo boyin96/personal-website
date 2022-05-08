@@ -44,7 +44,7 @@ projects: []
 
 - - -
 
-## VScode配置LaTeX
+## **VScode配置LaTeX**
 
 关于VScode配置LaTeX的相关文档可以参考VScode插件LaTeX Workshop:
 
@@ -117,7 +117,7 @@ EnableTeXEnhancements = true
 
 - - -
 
-## Tips
+## **Some Tips**
 
 1. 在VScode的tex源文件中输入@会有意想不到的效果，更多特性可参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
