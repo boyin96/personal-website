@@ -125,4 +125,6 @@ EnableTeXEnhancements = true
 
 3. LaTeX在线公式编辑推荐[LaTeX公式编辑器](https://www.latexlive.com/home)，在线表格编辑推荐[Tables Generator](https://www.tablesgenerator.com/latex_tables)。
 
+4. LaTeX简单学习推荐[它](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)。
+
 - - -
