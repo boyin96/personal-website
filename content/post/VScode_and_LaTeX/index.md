@@ -17,6 +17,8 @@ categories:
   - 软件学习
 projects: []
 ---
+{{< *toc* >}}
+
 ## **前言**
 
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。LaTeX是建立在TeX上的一套宏集。TeX家族非常庞大且复杂，感兴趣可以参考[这里](https://www.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt)。
