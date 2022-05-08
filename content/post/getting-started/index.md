@@ -1,7 +1,6 @@
 ---
 title: 如何优雅地使用Visual Studio Code（VS code）编写LaTeX
-subtitle: 作为世界上最强大的排版系统，LaTex的使用是每一名科研工作者必备的技能之一，尤其对于理工科而言，其重要性不言而喻。Latex并非所见即所得“（What
-  You See Is What You Get），选择舒适的编辑器能让你的写作更好
+subtitle: sdfs 作为世界上最强大的排版系统，LaTex的使用是每一名科研工作者必备的技能之一，尤其对于理工科而言，其重要性不言而喻
 date: 2022-05-08T06:47:21.860Z
 summary: ""
 draft: false
@@ -13,7 +12,6 @@ tags: []
 categories: []
 projects: []
 ---
-
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
