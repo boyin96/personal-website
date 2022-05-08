@@ -27,6 +27,8 @@ projects: []
 
 * 本文只关注编辑器，关于TeX的环境或发行版一般可以选择Texlive或者MikTex，Texlive相对较大，功能比较齐全，如果空间允许建议安装。此外CTex是专门面向中文的发行版，已经许久没有维护了，体验不佳，建议非必要不要安装。
 
+* 关于[Texlive](https://www.latex-project.org/)以及[VScode](https://code.visualstudio.com/)的安装，本文在此不再赘述。
+
 ---
 
 ## **为什么选择VScode**
@@ -45,5 +47,8 @@ projects: []
 **总结即是：VScode is all you need！**
 {style="color: green"}
 
+---
+
+的
 
 ---
