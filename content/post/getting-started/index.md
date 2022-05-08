@@ -119,10 +119,10 @@ EnableTeXEnhancements = true
 
 ## Tips
 
-1. 在VScode的tex源文件中输入@会有意想不到的效果，更多特性可参考[这里](https://github.com/James-Yu/LaTeX-Workshop)
+1. 在VScode的tex源文件中输入@会有意想不到的效果，更多特性可参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
-VScode的主题我个人比较喜欢
+2. VScode的主题我个人比较喜欢Github Theme、Eva Theme、One Dark Pro以及Atom One Light/Dark Theme。
 
-latex页面公式
+3. 
 
 - - -
