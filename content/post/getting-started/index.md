@@ -121,7 +121,7 @@ EnableTeXEnhancements = true
 
 1. 在VScode的tex源文件中输入@会有意想不到的效果，更多特性可参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
-2. VScode的主题我个人比较喜欢Github Theme、Eva Theme、One Dark Pro以及Atom One Light/Dark Theme。
+2. VScode的主题我个人比较喜欢[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)以及[Atom One Light/Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)，这些都可以直接在VScode插件中搜索。
 
 3. LaTeX在线公式编辑推荐[LaTeX公式编辑器](https://www.latexlive.com/home)，在线表格编辑推荐[Tables Generator](https://www.tablesgenerator.com/latex_tables)。
 
