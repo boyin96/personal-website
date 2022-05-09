@@ -47,7 +47,7 @@ footer:
 # Localization
 
 locale:
-  date_format: '2006年, Apr 8日'
+  date_format: '2006年 四月 8日'
   time_format: 'PM 3:04'
   address_format: zh
 
