@@ -127,6 +127,8 @@ EnableTeXEnhancements = true
 
 4. LaTeX简单学习推荐[它](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)。
 
+5. [CTAN](https://www.ctan.org/)：一个TeX最全面的归档网络。
+
 - - -
 
 ## **参考**
@@ -137,5 +139,7 @@ EnableTeXEnhancements = true
 3. [VS Code + LaTeX](https://zhuanlan.zhihu.com/p/108095566)
 
 4. [有哪些好的 LaTeX 编辑器](https://www.zhihu.com/question/19954023/answer/23121933)
+
+5. [TeX 家族](https://zhuanlan.zhihu.com/p/248669482)
 
 ---
