@@ -2,10 +2,10 @@
 title: 印博
 role: Ph.D. Candidate of Electronics and ICT Engineering
 bio: 我的研究兴趣包括无线通信、机器学习和凸优化等。
-研究兴趣:
-  - Wireless Communications
-  - Graph Neural Networks
-  - Convex Optimization
+interests:
+  - 无线通信
+  - 机器学习
+  - 凸优化
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Ghent University
+  - name: 根特大学（Ghent University）
     url: https://www.ugent.be/en
 education:
   courses:
