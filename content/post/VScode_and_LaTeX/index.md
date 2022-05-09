@@ -33,7 +33,7 @@ projects: []
 
 当前流行的文本编辑器很多，例如Sublime Text、Atom以及Notepad++等，关于LaTeX不同编辑器的比较在维基百科上有详细的说明：
 
-> {{< hl >}}[http://en.wikipedia.org/wiki/Comparison_of_TeX_editors](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors){{< /hl >}}
+> [http://en.wikipedia.org/wiki/Comparison_of_TeX_editors](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
 
 选择VScode有以下三点原因：
 
@@ -50,7 +50,7 @@ projects: []
 
 关于VScode配置LaTeX的相关文档可以参考VScode插件LaTeX Workshop:
 
-> {{< hl >}}[https://github.com/James-Yu/LaTeX-Workshop/wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki){{< /hl >}}
+> [https://github.com/James-Yu/LaTeX-Workshop/wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki)
 
 本文将主要配置步骤总结如下：
 
