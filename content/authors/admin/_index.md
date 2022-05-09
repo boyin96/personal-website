@@ -1,8 +1,7 @@
 ---
 title: 印博
 role: Ph.D. Candidate of Electronics and ICT Engineering
-bio: My research interests include wireless communication, deep learning and
-  convex optimization.
+bio: 我的研究兴趣包括无线通信、机器学习和凸优化等。
 interests:
   - Wireless Communications
   - Graph Neural Networks
