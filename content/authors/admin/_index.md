@@ -1,6 +1,6 @@
 ---
-title: 印博（Borg）
-role: Ph.D. Candidate of Electronics and ICT Engineering
+title: 印博
+role: 电子与信息通信技术工程在读博士
 bio: 我的研究兴趣包括无线通信、机器学习和凸优化等。
 interests:
   - 无线通信
