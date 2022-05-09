@@ -130,5 +130,11 @@ EnableTeXEnhancements = true
 - - -
 
 ## **参考**
+[Visual Studio Code (vscode)配置LaTeX](https://zhuanlan.zhihu.com/p/166523064)
 
+[使用VSCode编写LaTeX](https://zhuanlan.zhihu.com/p/38178015)
+
+[VS Code + LaTeX](https://zhuanlan.zhihu.com/p/108095566)
+
+[有哪些好的 LaTeX 编辑器](https://www.zhihu.com/question/19954023/answer/23121933)
 ---
