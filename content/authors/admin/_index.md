@@ -25,8 +25,8 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Electronics and ICT Engineering
-      institution: Ghent University
-      year: now
+      institution: 根特大学
+      year: ""
     - course: M.Eng. in Information and Communication Engineering
       institution: South China University of Technology
       year: 2022
