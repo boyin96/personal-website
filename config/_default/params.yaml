@@ -47,8 +47,8 @@ footer:
 # Localization
 
 locale:
-  date_format: '2006年4月8日'
-  time_format: '下午 3:40'
+  date_format: '2006-4-16'
+  time_format: '3:40 PM'
   address_format: zh
 
 # Site features
