@@ -43,4 +43,4 @@ highlight_name: true
 
 Mr. Yin was born in 1997. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. He is now pursuing the Ph.D. degree in the [Waves group](https://www.waves.intec.ugent.be/) at the Department of Information Technology, Ghent University, Belgium. His research interests include wireless communications, graph neural networks and convex optimization.
 
-{{< icon name="download" pack="fas" >}} 这里是我的个人 {{< staticref "uploads/CV_Yin.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 我的个人简历 {{< staticref "uploads/CV_Yin.pdf" "newtab" >}}在这{{< /staticref >}}.
