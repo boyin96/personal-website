@@ -36,7 +36,7 @@ education:
     - course: 信息工程工学学士
       institution: 华南理工大学
       year: 2019
-email: boyin@outlook.com
+email: ""
 superuser: true
 highlight_name: true
 ---
