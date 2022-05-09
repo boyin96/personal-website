@@ -2,7 +2,7 @@
 title: 如何优雅地使用Visual Studio Code（VScode）编写LaTeX
 subtitle: 作为世界上最强大的排版系统，LaTeX是每一名科研工作者必备技能之一，尤其对于理工科而言，其重要性不言而喻。LaTeX并非“所见即所得”（WYSIWYG，What
   You See Is What You Get），选择合适且舒适的编辑器能让你的写作事半功倍。
-date: 2022-05-08T12:57:27.315Z
+date: 2022年5月8日
 summary: 作为世界上最强大的排版系统，LaTeX是每一名科研工作者必备技能之一，尤其对于理工科而言，其重要性不言而喻。LaTeX并非“所见即所得”（WYSIWYG，What
   You See Is What You Get），选择合适且舒适的编辑器能让你的写作事半功倍。
 draft: false
