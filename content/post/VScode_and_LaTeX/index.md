@@ -119,7 +119,7 @@ EnableTeXEnhancements = true
 
 - - -
 
-## **Some Tips**
+## **一些提示**
 
 1. 在VScode的tex源文件中输入@会有意想不到的效果，更多特性可参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
