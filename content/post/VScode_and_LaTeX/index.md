@@ -128,3 +128,7 @@ EnableTeXEnhancements = true
 4. LaTeX简单学习推荐[它](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)。
 
 - - -
+
+## **参考**
+
+---
