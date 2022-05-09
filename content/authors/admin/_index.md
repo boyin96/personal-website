@@ -26,12 +26,12 @@ education:
   courses:
     - course: Ph.D. in Electronics and ICT Engineering
       institution: 根特大学
-      year: ""
-    - course: M.Eng. in Information and Communication Engineering
-      institution: South China University of Technology
+      year: 现在
+    - course: 信息与通信工程工学硕士
+      institution: 华南理工大学
       year: 2022
-    - course: B.Eng. in Information Engineering
-      institution: South China University of Technology
+    - course: 信息工程工学学士
+      institution: 华南理工大学
       year: 2019
 email: ""
 superuser: true
