@@ -2,7 +2,7 @@
 title: 印博
 role: Ph.D. Candidate of Electronics and ICT Engineering
 bio: 我的研究兴趣包括无线通信、机器学习和凸优化等。
-interests:
+研究兴趣:
   - 无线通信
   - 机器学习
   - 凸优化
