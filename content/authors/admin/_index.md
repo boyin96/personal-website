@@ -42,4 +42,7 @@ highlight_name: true
 ---
 我出生于1996年，分别于2019年和2022年获得华南理工大学（中国广州）工学学士和工学硕士学位。目前我在比利时根特大学工程与建筑学院信息技术系下的[Waves](https://www.waves.intec.ugent.be/)研究组攻读博士学位。我的研究兴趣包括无线通信、图神经网络和凸优化等。
 
+王国维在其文《人间词话》中写道：古今之成大事业、大学问者，必经过三种之境界。
+
+
 {{< icon name="download" pack="fas" >}} 我的个人简历 {{< staticref "uploads/CV_Yin.pdf" "newtab" >}}在这{{< /staticref >}}
