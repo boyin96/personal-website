@@ -1,5 +1,5 @@
 ---
-title: 印博
+title: Bo Yin
 role: Ph.D. Candidate of Electronics and ICT Engineering
 bio: 我的研究兴趣包括无线通信、机器学习和凸优化等。
 interests:
