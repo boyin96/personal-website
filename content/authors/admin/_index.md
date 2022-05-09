@@ -27,7 +27,7 @@ organizations:
     url: https://www.ugent.be/en
 education:
   courses:
-    - course: Ph.D. in Electronics and ICT Engineering
+    - course: 电子与信息通信技术工程博士
       institution: 根特大学
       year: 现在
     - course: 信息与通信工程工学硕士
