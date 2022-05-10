@@ -41,13 +41,13 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Borg.'
+    notice: '© 2022-{year} Borg.'
     
 
 # Localization
 
 locale:
-  date_format: '2006年 2 31'
+  date_format: '2006 2 31'
   time_format: '3:40 PM'
   address_format: zh
 
