@@ -1,7 +1,7 @@
 ---
 title: Bo Yin
-role: "电子与信息通信技术工程在读博士"
-bio: "我的研究兴趣包括无线通信、机器学习和凸优化等。"
+role: 根特大学电子与信息通信技术工程在读博士
+bio: 修身、齐家、治国、平天下
 interests: []
 social: []
 organizations: []
@@ -11,5 +11,3 @@ email: ""
 superuser: false
 highlight_name: true
 ---
-
-
