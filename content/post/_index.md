@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 所有文章
 cms_exclude: true
 # View.
 #   1 = List
