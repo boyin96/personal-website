@@ -41,17 +41,6 @@ content:
   office_hours:
     - 'Monday to Friday'
     - '9am to 10pm'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
 design:
   columns: '2'
 ---
