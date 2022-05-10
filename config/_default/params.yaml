@@ -52,8 +52,8 @@ footer:
 # Localization
 
 locale:
-  date_format: '2006-02-31'
-  time_format: '3:40 PM'
+  date_format: '01/02/06'
+  time_format: '15:04'
   address_format: zh
 
 # Site features
