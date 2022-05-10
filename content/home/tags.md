@@ -1,9 +1,9 @@
 ---
 widget: tag_cloud
-widget_id: RECENT-POSTS
+widget_id: 
 headless: true
 weight: 120
-title: Popular Topics
+title: 热门话题
 subtitle: ""
 content:
   taxonomy: tags
