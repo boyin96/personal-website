@@ -52,7 +52,7 @@ projects: []
 
 本文将主要配置步骤总结如下：
 
-1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的{{< hl >}}Bulid LaTeX project{{< /hl >}}便可以进行编译查看。 
+1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Bulid LaTeX project`便可以进行编译查看。 
 2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
 3. **VScode设置**：进入VScode按`Ctrl+Shift+P`搜索settings，打开Open Settings（JSON），即settings.json文件，将其修改如下：
 
@@ -119,7 +119,7 @@ EnableTeXEnhancements = true
 
 ## **一些提示**
 
-1. 在VScode的tex源文件中输入{{< hl >}}@{{< /hl >}}会有意想不到的效果，更多特性可以参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
+1. 在VScode的tex源文件中输入`@`会有意想不到的效果，更多特性可以参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
 2. VScode的主题个人比较喜欢[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)、[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)以及[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)。
 
