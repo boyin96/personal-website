@@ -83,7 +83,7 @@ features:
       shortname: '@disqus_8wRIBHrlUM'
       show_count: true
     commento:
-      url: 'https://cdn.commento.io/js/commento.js"'
+      url: 'https://cdn.commento.io/js/commento.js'
   search:
     provider: wowchemy
     algolia:
