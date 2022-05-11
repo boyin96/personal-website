@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 所有论文
 cms_exclude: true
 
 # View.
