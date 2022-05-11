@@ -19,7 +19,7 @@ main:
   - name: 发表论文
     url: '#publications'
     weight: 50
-  - name: 联系方式
+  - name: 联系我
     url: '#contact'
     weight: 60
 
