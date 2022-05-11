@@ -78,12 +78,12 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: 'disqus'
+    provider: 'commento'
     disqus:
       shortname: '@disqus_8wRIBHrlUM'
       show_count: true
     commento:
-      url: ''
+      url: 'https://cdn.commento.io/js/commento.js"'
   search:
     provider: wowchemy
     algolia:
