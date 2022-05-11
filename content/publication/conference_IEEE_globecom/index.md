@@ -33,7 +33,7 @@ author_notes:
   - ""
   - Corresponding author
 doi: 10.1109/GLOBECOM46510.2021.9685411
-publication: "*2021 IEEE Global Communications Conference (GLOBECOM)*"
+publication: "*2021 IEEE Global Communications Conference*"
 featured: false
 tags: []
 projects: []
