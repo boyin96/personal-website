@@ -145,3 +145,24 @@ EnableTeXEnhancements = true
 
 ---
 
+<-- 引入 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+ 
+<-- 添加一个容器-->
+<div id="gitalk-container"></div>
+ 
+<-- 生成 gitalk 插件-->
+var gitalk = new Gitalk({
+  clientID: '7d9478567af5cc1dccf6', //Client ID
+ 
+  clientSecret: '30786cd1b80aa31be0046034c13c2d239a34be6e', //Client Secret
+ 
+  repo: 'blogtalk',//仓库名称
+  owner: 'boyin96',//仓库拥有者
+  admin: ['boyin96'],
+  id: location.href,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+ 
+gitalk.render('gitalk-container')
