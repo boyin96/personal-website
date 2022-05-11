@@ -136,7 +136,7 @@ EnableTeXEnhancements = true
 
 ## **一些提示**
 
-1. 在VScode的tex源文件中输入`@`会有意想不到的效果，更多特性可以参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
+1. 在VScode的tex源文件中输入`@`以及将鼠标停留在LaTeX数学环境之间都会有意想不到的效果，更多特性可以参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
 2. VScode的主题个人比较喜欢[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)、[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)以及[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)。
 
