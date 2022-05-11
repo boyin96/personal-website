@@ -53,11 +53,11 @@ projects: []
 
 本文将主要配置步骤总结如下：
 
-1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Bulid LaTeX project`便可以进行编译查看。 
+1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Bulid LaTeX project`便可以进行编译查看。
 2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
 3. **VScode设置**：进入VScode按`Ctrl+Shift+P`搜索settings，打开Open Settings（JSON），即settings.json文件，将其修改如下：
 
-```
+```json
 // 外置PDF阅读器
 "latex-workshop.view.pdf.viewer": "external",
 "latex-workshop.view.pdf.external.viewer.command": "D:/SumatraPDF/SumatraPDF.exe", // 注意修改自己电脑中PDF的路径
@@ -94,7 +94,7 @@ projects: []
 
 与此同时，在Sumatra PDF的高级选项中，修改其txt文件，在最后增加：
 
-```
+```json
 // 注意修改自己电脑中VScode的路径
 InverseSearchCmdLine = "D:\VScode\Microsoft VS Code\Code.exe" "D:\VScode\Microsoft VS Code\resources\app\out\cli.js" --ms-enable-electron-run-as-node -r -g "%f:%l"
 EnableTeXEnhancements = true
@@ -102,7 +102,7 @@ EnableTeXEnhancements = true
 
 至此，有关VScode配置LaTeX的主要步骤结束。为了有更好地体验，通常会增加以下配置：
 
-```
+```json
 // 根据个人习惯将列数控制在90以内
 "editor.rulers": [
         90
@@ -115,6 +115,22 @@ EnableTeXEnhancements = true
     "editor.defaultFormatter": "James-Yu.latex-workshop"
     },
 ```
+
+- - -
+
+## *常用快捷键*
+
+* `Ctrl+Shift+P`：打开VScode命令窗
+
+* `Ctrl+Alt+B`：编译当前TeX文件
+
+* `Ctrl+Alt+V`：查看PDF文件
+
+* `Ctrl+Alt+J`：定位到PDF指定位置
+
+* `Shift+Alt+F`：格式化TeX文件
+
+* `Ctrl+/`：增加/取消当前注释
 
 - - -
 
@@ -133,6 +149,7 @@ EnableTeXEnhancements = true
 - - -
 
 ## **参考**
+
 1. [Visual Studio Code (vscode)配置LaTeX](https://zhuanlan.zhihu.com/p/166523064)
 
 2. [使用VSCode编写LaTeX](https://zhuanlan.zhihu.com/p/38178015)
