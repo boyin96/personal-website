@@ -26,7 +26,7 @@ authors:
   - Miaowen Wen
 url_dataset: ""
 url_project: ""
-publication_short: In *2021 GLOBECOM*
+publication_short: "*2021 GLOBECOM*"
 url_source: ""
 url_video: ""
 author_notes:
