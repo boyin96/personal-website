@@ -18,7 +18,7 @@ projects: []
 ---
 {{< toc >}}
 
-## **前言** : smile :
+## **前言**
 
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。LaTeX是建立在TeX上的一套宏集。TeX家族庞大且复杂，感兴趣可以参考[这里](https://www.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt)。
 * 大多数时候，可以利用特定的LaTeX编辑器编写LaTeX程序，例如[TeXworks](https://tug.org/texworks/)、[WinEdt](https://www.winedt.com/)以及[TexStudio](https://www.texstudio.org/)等，这类编辑器功能齐全，通常集编辑和预览于一身。然而，这类编辑器的界面往往显示效果不佳，这也是该文的写作缘由。
