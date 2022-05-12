@@ -18,7 +18,7 @@ projects: []
 ---
 {{< toc >}}
 
-## **前言**
+## **前言** : smile :
 
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。LaTeX是建立在TeX上的一套宏集。TeX家族庞大且复杂，感兴趣可以参考[这里](https://www.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt)。
 * 大多数时候，可以利用特定的LaTeX编辑器编写LaTeX程序，例如[TeXworks](https://tug.org/texworks/)、[WinEdt](https://www.winedt.com/)以及[TexStudio](https://www.texstudio.org/)等，这类编辑器功能齐全，通常集编辑和预览于一身。然而，这类编辑器的界面往往显示效果不佳，这也是该文的写作缘由。
@@ -122,13 +122,13 @@ EnableTeXEnhancements = true
 
 ## **VScode推荐插件**
 
-* **filesize**：便捷显示文件大小
+* **filesize** - 便捷显示文件大小
 
-* **WakTime**：记录你的编程时间
+* **WakaTime** - 记录你的编程时间
 
-* **Material Icon Theme**：更好看的文件图标
+* **Material Icon Theme** - 更好看的文件图标
 
-* **Code Spell Checker**：检查拼写
+* **Code Spell Checker** - 检查拼写
 
 - - -
 
@@ -152,7 +152,7 @@ EnableTeXEnhancements = true
 
 1. 在VScode的tex源文件中输入`@`以及将鼠标停留在LaTeX数学环境之间都会有意想不到的效果，更多特性可以参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
-2. VScode的主题个人比较喜欢[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)、[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)以及[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)。
+2. VScode的主题个人比较喜欢[Brackets Light Pro](https://marketplace.visualstudio.com/items?itemName=fehey.brackets-light-pro)、[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)、[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)以及[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)。
 
 3. LaTeX在线公式编辑推荐[LaTeX公式编辑器](https://www.latexlive.com/home)，在线表格编辑推荐[Tables Generator](https://www.tablesgenerator.com/latex_tables)。
 
@@ -164,7 +164,7 @@ EnableTeXEnhancements = true
 
 ## **参考**
 
-1. [Visual Studio Code (vscode)配置LaTeX](https://zhuanlan.zhihu.com/p/166523064)
+1. [Visual Studio Code (vscode) 配置LaTeX](https://zhuanlan.zhihu.com/p/166523064)
 
 2. [使用VSCode编写LaTeX](https://zhuanlan.zhihu.com/p/38178015)
 
