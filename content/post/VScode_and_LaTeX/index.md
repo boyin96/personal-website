@@ -120,6 +120,18 @@ EnableTeXEnhancements = true
 
 - - -
 
+## **VScode推荐插件**
+
+* **filesize**：便捷显示文件大小
+
+* **WakTime**：记录你的编程时间
+
+* **Material Icon Theme**：更好看的文件图标
+
+* **Code Spell Checker**：检查拼写
+
+- - -
+
 ## **常用快捷键**
 
 * `Ctrl+Shift+P`：打开VScode命令窗
