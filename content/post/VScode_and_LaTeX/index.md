@@ -21,10 +21,10 @@ projects: []
 ## **前言**
 
 * TeX是由Donald E.Knuth开发的、以排版文字和数学公式为目的的一个计算机软件。LaTeX是建立在TeX上的一套宏集。TeX家族庞大且复杂，感兴趣可以参考[这里](https://www.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt)。
-* 大多数时候，可以利用特定的LaTeX编辑器编写LaTeX程序，例如[TeXworks](https://tug.org/texworks/)、[WinEdt](https://www.winedt.com/)以及[TexStudio](https://www.texstudio.org/)等，这类编辑器功能齐全，通常集编辑和预览于一身。然而，这类编辑器的界面往往显示效果不佳，这也是该文的写作缘由。
-* 本文只关注编辑器，关于TeX的发行版一般可以选择[TexLive](https://www.latex-project.org/)（通用）、[MikTeX](https://miktex.org/)（Windows）以及[MacTeX](https://www.tug.org/mactex/)（MacOS）等，TexLive功能比较齐全，如果空间允许建议安装。此外CTex是专门面向中文的发行版，已经许久没有维护了，体验不佳，建议非必要不要安装。
-* 本文只关注本地编辑器，这里有许多非常优秀且好用的线上LaTeX编辑器，例如[OverLeaf](https://www.overleaf.com/)、[Slager](https://www.slager.cn/#/home)以及[JaxEdit](http://jaxedit.com/note/)等。
-* 关于TexLive以及[VScode](https://code.visualstudio.com/)的安装，本文在此不再赘述。
+* 大多数时候，可以利用特定的LaTeX编辑器编写LaTeX程序，例如[**TeXworks**](https://tug.org/texworks/)、[**WinEdt**](https://www.winedt.com/)以及[**TexStudio**](https://www.texstudio.org/)等，这类编辑器功能齐全，通常集编辑和预览于一身。然而，这类编辑器的界面往往显示效果不佳，这也是该文的写作缘由。
+* 本文只关注编辑器，关于TeX的发行版一般可以选择[**TexLive**](https://www.latex-project.org/)（通用）、[**MikTeX**](https://miktex.org/)（Windows）以及[**MacTeX**](https://www.tug.org/mactex/)（MacOS）等，TexLive功能比较齐全，如果空间允许建议安装。此外CTex是专门面向中文的发行版，已经许久没有维护了，体验不佳，建议非必要不要安装。
+* 本文只关注本地编辑器，这里有许多非常优秀且好用的线上LaTeX编辑器，例如[**OverLeaf**](https://www.overleaf.com/)、[**Slager**](https://www.slager.cn/#/home)以及[**JaxEdit**](http://jaxedit.com/note/)等。
+* 关于TexLive以及[**VScode**](https://code.visualstudio.com/)的安装，本文在此不再赘述。
 
 - - -
 
@@ -37,8 +37,10 @@ projects: []
 选择VScode有以下三点原因：
 
 * 轻量级且速度快，并且VScode还可以提供只有IDE才提供的终端功能。
+  
 * 免费且开源，这两点非常具有吸引力，况且VScode有大名鼎鼎的微软支持。
-* 高扩展性，插件几乎可以无所不能，高移植性，可在各大平台运行，甚至可以在网页运行你的[VScode](https://github.com/coder/code-server)，以及完善的文档和庞大的社区，帮助你随时学习。
+  
+* 高扩展性，插件几乎可以无所不能，高移植性，可在各大平台运行，甚至可以在网页运行你的[**VScode**](https://github.com/coder/code-server)，以及完善的文档和庞大的社区，帮助你随时学习。
 
 当然以上都是软件本身的优质特性，实际上在使用以后，强大的搜索能力、代码补全能力以及优美的高亮显示等性能，都会让你爱不释手！
 
@@ -55,8 +57,10 @@ projects: []
 
 本文将主要配置步骤总结如下：
 
-1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Bulid LaTeX project`便可以进行编译查看。
-2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
+1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Build LaTeX project`便可以进行编译查看。
+  
+2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[**Sumatra PDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
+
 3. **VScode设置**：进入VScode按`Ctrl+Shift+P`搜索settings，打开Open Settings（JSON），即settings.json文件，将其修改如下：
 
 ```json
@@ -132,7 +136,7 @@ EnableTeXEnhancements = true
 
 - - -
 
-## **常用快捷键**
+## **VScode常用快捷键**
 
 * `Ctrl+Shift+P`：打开VScode命令窗
 
@@ -148,11 +152,19 @@ EnableTeXEnhancements = true
 
 - - -
 
+## **LaTeX好用功能**
+
+1. 利用[**Pandoc**](https://pandoc.org/)可以直接将tex源码转化为Word，非常方便，当然它还可以转化为其它更多的格式。
+
+2. 利用[**LaTeXdiff**](https://tex.stackexchange.com/questions/376483/how-to-use-latexdiff-with-texlive)可以比较两个tex文件的差异并生成diff.tex，再利用TexLive编译该diff.tex即可生成PDF文件，非常方便。
+
+- - -
+
 ## **一些提示**
 
 1. 在VScode的tex源文件中输入`@`以及将鼠标停留在LaTeX数学环境之间都会有意想不到的效果，更多特性可以参考[这里](https://github.com/James-Yu/LaTeX-Workshop)。
 
-2. VScode的主题个人比较喜欢[Brackets Light Pro](https://marketplace.visualstudio.com/items?itemName=fehey.brackets-light-pro)、[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)、[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)以及[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)。
+2. VScode的主题个人比较喜欢[**Brackets Light Pro**](https://marketplace.visualstudio.com/items?itemName=fehey.brackets-light-pro)、[**Github Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)、[**Eva Theme**](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)、[**One Dark Pro**](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)、[**Atom One Light Theme**](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)以及[**Atom One Dark Theme**](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)。
 
 3. LaTeX在线公式编辑推荐[LaTeX公式编辑器](https://www.latexlive.com/home)，在线表格编辑推荐[Tables Generator](https://www.tablesgenerator.com/latex_tables)。
 
@@ -173,5 +185,9 @@ EnableTeXEnhancements = true
 4. [有哪些好的 LaTeX 编辑器](https://www.zhihu.com/question/19954023/answer/23121933)
 
 5. [TeX 家族](https://zhuanlan.zhihu.com/p/248669482)
+   
+6. [How to use Latexdiff with TexLive?](https://tex.stackexchange.com/questions/376483/how-to-use-latexdiff-with-texlive)
+
+7. [Windows下Pandoc转换LaTeX成Word最全指令](https://blog.csdn.net/qq_27464321/article/details/88853270)
 
 ---
