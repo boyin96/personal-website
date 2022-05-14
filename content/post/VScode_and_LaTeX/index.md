@@ -185,7 +185,7 @@ EnableTeXEnhancements = true
 4. [有哪些好的 LaTeX 编辑器](https://www.zhihu.com/question/19954023/answer/23121933)
 
 5. [TeX 家族](https://zhuanlan.zhihu.com/p/248669482)
-   
+
 6. [How to use Latexdiff with TexLive?](https://tex.stackexchange.com/questions/376483/how-to-use-latexdiff-with-texlive)
 
 7. [Windows下Pandoc转换LaTeX成Word最全指令](https://blog.csdn.net/qq_27464321/article/details/88853270)
