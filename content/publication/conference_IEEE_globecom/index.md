@@ -51,8 +51,8 @@ image:
 
 # 链接 # 号会返回
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: EI
+  url: https://www.engineeringvillage.com/search/doc/detailed.url?SEARCHID=f57751e660bd47a192fecf2f5c34afb4&usageZone=resultslist&usageOrigin=searchresults&pageType=quickSearch&searchtype=quickSearch&CID=quickSearchDetailedFormat&DOCINDEX=1&database=1&format=quickSearchDetailedFormat&tagscope=&displayPagination=yes
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9685411
 url_code: ''
 url_dataset: ''
