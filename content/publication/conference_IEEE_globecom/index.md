@@ -1,9 +1,20 @@
 ---
 title: "Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things"
 authors:
+<<<<<<< HEAD
 - BoYin
 - Jianhua Tang
 - Miaowen Wen
+=======
+  - BoYin
+  - "**Jianhua Tang**"
+  - Miaowen Wen
+url_dataset: ""
+url_project: ""
+publication_short: In *2021 GLOBECOM*
+url_source: ""
+url_video: ""
+>>>>>>> bf8c703ab64c679afcc7f1885b093ec02e1f4f09
 author_notes:
   - ""
   - Corresponding author
