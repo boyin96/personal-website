@@ -1,5 +1,5 @@
 ---
-title: "Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things"
+title: "On the Connectivity Maximization in NOMA-Aided Industrial IoT with Multiple Services"
 authors:
 - BoYin
 - Jianhua Tang
@@ -22,8 +22,8 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # 注意需要""，否则前面要有单词
-publication: Submitted to "IEEE Transactions on Communications"
-publication_short: ""
+publication: "[*IEEE Wireless Communications Letters*](https://www.comsoc.org/publications/journals/ieee-wcl)"
+publication_short: Submitted to *IEEE WCL*
 
 abstract: Industrial Internet-of-Things (IIoT) improving by leaps and bounds has brought new possibilities for industrial manufacturing. Massive connectivity and multi-services are two major requirements for IIoT. In order to address the two main issues, we joint consider non-orthogonal multiple access (NOMA) and wireless slicing in this work. We formulate the connectivity maximization problem with joint sub-carrier association and power allocation as a mixed-integer nonlinear programming (MINLP). To solve the problem effectively, we first split the MINLP problem into two subproblems by introducing a power allocation weight. Then, we propose the Layered Access (LA) algorithm to maximize the connectivity. Furthermore, a Bisection Search algorithm is devised to find out the optimal power allocation weight. Simulation results show that the proposed LA has better performance compared to other benchmark schemes.
 
