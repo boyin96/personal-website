@@ -22,7 +22,7 @@ publication_types:
   - "1"
 authors:
   - BoYin
-  - Jianhua Tang
+  - "**Jianhua Tang**"
   - Miaowen Wen
 url_dataset: ""
 url_project: ""
