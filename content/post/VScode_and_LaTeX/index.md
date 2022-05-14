@@ -156,7 +156,7 @@ EnableTeXEnhancements = true
 
 1. 利用[**Pandoc**](https://pandoc.org/)可以直接将tex源码转化为Word，非常方便，当然它还可以转化为其它更多的格式。
 
-2. 利用[**LaTeXdiff**](https://tex.stackexchange.com/questions/376483/how-to-use-latexdiff-with-texlive)可以比较两个tex文件的差异并生成diff.tex，再利用TexLive编译该diff.tex即可生成PDF文件，非常方便。
+2. 利用[**LaTeXdiff**](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents)可以比较两个tex文件的差异并生成diff.tex，再利用TexLive编译该diff.tex即可生成PDF文件，非常方便。
 
 - - -
 
