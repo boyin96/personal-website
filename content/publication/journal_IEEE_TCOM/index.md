@@ -25,7 +25,7 @@ publication_types: ["3"]
 publication: "[*IEEE Transactions on Communications*](https://www.comsoc.org/publications/journals/ieee-tcom)"
 publication_short: Submitted to ***IEEE TCOM (JCR Q1, IF:5.083)***
 
-abstract: Industrial Internet of Things (IIoT) is a technological revolution that is profoundly reshaping the visage of industry. Facing the explosively increasing number of multi-service devices, traditional industrial network technology is no longer applicable. The advent of the fifth generation (5G) wireless networks brings unprecedented possibilities for deploying the anticipated IIoT. To address the two main issues, i.e., connection density and multi-service requirements, in 5G empowered IIoT, we consider the non-orthogonal network slicing in this work. In particular, we jointly utilize network slicing to incorporate different types of services and exploit non-orthogonal multiple access (NOMA) to enhance the connection density. We formulate the connectivity maximization problem with joint sub-carrier association and power allocation as a mixed-integer nonlinear programming (MINLP). To tackle the intractable MINLP, we first transform it into a mixed-integer linear programming (MILP) and then simplify the MILP into an integer linear programming (ILP) by developing a simple yet effective pairing guideline. In order to further reduce the computational complexity, we then propose the alternating selection best-effort pairing (AS-BEP) algorithm with low complexity to solve the ILP effectively. Our analyses are supplemented by comprehensive simulation results that illustrate the performance superiority of the proposed algorithms to the benchmark schemes.
+abstract: 
 
 # 标签
 tags: []
