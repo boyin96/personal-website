@@ -81,7 +81,7 @@ features:
     provider: 'disqus'
     disqus:
       shortname: 'boyin'
-      show_count: true
+      show_count: false
     commento:
       url: 'https://cdn.commento.io/js/commento.js'
   search:
