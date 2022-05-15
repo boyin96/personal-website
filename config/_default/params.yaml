@@ -80,7 +80,7 @@ features:
   comment:
     provider: 'disqus'
     disqus:
-      shortname: '@disqus_8wRIBHrlUM'
+      shortname: 'disqus_8wRIBHrlUM'
       show_count: true
     commento:
       url: 'https://cdn.commento.io/js/commento.js'
