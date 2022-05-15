@@ -106,7 +106,7 @@ InverseSearchCmdLine = "D:\VScode\Microsoft VS Code\Code.exe" "D:\VScode\Microso
 EnableTeXEnhancements = true
 ```
 
-至此，有关VScode配置LaTeX的主要步骤结束。为了有更好地体验，通常会增加以下配置：
+至此，有关VScode配置LaTeX的主要步骤结束。为了有更好地体验，可增加以下配置：
 
 ```json
 // VScode自动换行
@@ -168,7 +168,7 @@ EnableTeXEnhancements = true
 
 5. [CTAN](https://www.ctan.org/)：一个TeX最全面的归档网络。
 
-6. [Mathpix](https://mathpix.com/)：一款非常便捷的公式转化软件，可以通过截图方式直接获取公式LaTeX源码或其他格式。
+6. [Mathpix](https://mathpix.com/)：一款非常便捷的公式转化软件，可以通过截图等方式直接获取公式LaTeX源码或其他格式。
 
 - - -
 
