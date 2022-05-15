@@ -57,7 +57,7 @@ projects: []
 
 本文将主要配置步骤总结如下：
 
-1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Build LaTeX project`便可以进行编译查看。
+1. **在VScode中安装插件LaTeX Workshop**： 如果一切顺利，打开tex源文件，点击VScode左侧TEX里面的`Build LaTeX project`便可以进行编译，并利用VScode内置PDF进行查看。
   
 2. **外置的PDF阅读器**： 如上所说，可以使用VScode内置的PDF阅读器，但个人建议使用[**Sumatra PDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer)作为外置的PDF阅读器，该PDF十分轻巧，适合简单的阅读和查看。
 
@@ -109,12 +109,8 @@ EnableTeXEnhancements = true
 至此，有关VScode配置LaTeX的主要步骤结束。为了有更好地体验，通常会增加以下配置：
 
 ```json
-// 根据个人习惯将列数控制在90以内
-"editor.rulers": [
-        90
-    ],
-"editor.wordWrap": "wordWrapColumn",
-"editor.wordWrapColumn": 90,
+// VScode自动换行
+"editor.wordWrap": "on",
 
 // 右键选择Format Document或者Shift+Alt+F可以自动调整tex文件格式
 "[latex]": {
