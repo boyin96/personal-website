@@ -168,6 +168,8 @@ EnableTeXEnhancements = true
 
 5. [CTAN](https://www.ctan.org/)：一个TeX最全面的归档网络。
 
+6. [Mathpix](https://mathpix.com/)：一款非常便捷的公式转化软件，可以通过截图方式直接获取公式LaTeX源码或其他格式。
+
 - - -
 
 ## **参考**
